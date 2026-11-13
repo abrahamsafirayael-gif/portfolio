@@ -36,7 +36,7 @@ window.SITE = {
   /* ------------------------------- INGLÉS --------------------------------- */
   en: {
     htmlLang: "en",
-    pageTitle: "Safira Yael Abraham | QA Tester",
+    pageTitle: "Safira Yael Abraham | QA Manual & Automation Tester",
     metaDescription:
       "Professional bilingual portfolio of Safira Yael Abraham. Manual QA, Automation Testing, projects and professional experience.",
     switchTo: "ES",
@@ -276,7 +276,7 @@ why: {
       tagline:
         "QA Manual & Automation Junior. Pruebo software y verifico datos para que el producto funcione según lo esperado.",
       studying:
-        "Estudiando Ciberseguridad y la Tecnicatura en Sistemas de Información de las Organizaciones.",
+        "Estudiando Ciberseguridad & Tecnicatura en Informática de Gestión.",
       talk: "Hablemos",
       kicker: "Safira Yael Abraham",
       available: "Disponible para incorporación inmediata y full-time"
@@ -295,7 +295,7 @@ why: {
       paragraphs: [
         "Soy tester QA y me apasiona la calidad del software y de los datos. Mi recorrido comenzó en 2023, cuando descubrí esta rama de la informática que hasta entonces desconocía.",
         "Vengo de la investigación y el desarrollo, donde trabajé en laboratorios del INTA, y de la gestión digital. Estas dos experiencias me enseñaron a ser metódica, analítica y detallista: habilidades que considero fundamentales, no solo para el trabajo, sino también para la vida.",
-        "Continúo mi formación en Ciberseguridad (Cisco Networking Academy) y me preparo para la Tecnicatura en Sistemas de Información de las Organizaciones (UNL). Incorporo herramientas de análisis de datos para obtener una visión integral de cada producto, porque entiendo cómo una falla técnica impacta en las ventas, las tasas de conversión y el inventario. Por eso, no pruebo código de forma aislada: valido productos. Utilizo IA generativa con criterio para documentar y agilizar los ciclos de calidad, sin delegar mi capacidad de análisis.",
+        "Continúo mi formación en Ciberseguridad (Cisco Networking Academy) y me preparo para la Tecnicatura en Informática de Gestión (UNL). Incorporo herramientas de análisis de datos para obtener una visión integral de cada producto, porque entiendo cómo una falla técnica impacta en las ventas, las tasas de conversión y el inventario. Por eso, no pruebo código de forma aislada: valido productos. Utilizo IA generativa con criterio para documentar y agilizar los ciclos de calidad, sin delegar mi capacidad de análisis.",
         "Mi interés particular por la Ciberseguridad creció durante mi segundo año como pasante en la EEA INTA Paraná. Presencié un ciberataque que dejó a la institución completamente sin copias de seguridad de proyectos que habían llevado años de trabajo minucioso y mediciones. Un ciberdelincuente exigió una suma exorbitante, en dólares, para devolver la información experimental y, en algunos casos, confidencial.",
         "Por estas razones, y muchas más, busco equipos dinámicos donde pueda aportar mi experiencia, continuar aprendiendo y ayudar a que la tecnología funcione de la manera más eficiente posible, mientras construyo mi carrera paso a paso."
       ],
@@ -303,7 +303,7 @@ why: {
         { label: "Puesto", value: "QA Manual & Automation Junior" },
         { label: "Ubicación", value: "Pergamino, Buenos Aires" },
         { label: "Idiomas", value: "Español nativo, inglés B1 (lectura técnica)" },
-        { label: "Próximo paso", value: "Tecnicatura en Sistemas de Información de las Organizaciones, UNL (inicio: febrero de 2027)" }
+        { label: "Próximo paso", value: "Tecnicatura en Informática de Gestión, UNL (inicio: febrero de 2027)" }
       ]
     },
 
@@ -404,7 +404,7 @@ why: {
       ],
       educationTitle: "Educación",
       education: [
-        { date: "Feb 2027", status: "Ingreso en curso", title: "Tecnicatura en Sistemas de Información de las Organizaciones", org: "Universidad Nacional del Litoral (UNL)" },
+        { date: "Feb 2027", status: "Ingreso en curso", title: "Tecnicatura en Informática de Gestión", org: "Universidad Nacional del Litoral (UNL)" },
         { date: "Sep 2026 – Actualidad", status: "", title: "Ciberseguridad", org: "Cisco Networking Academy" },
         { date: "Ago – Sep 2026", status: "", title: "DataLab", org: "Unicorn Academy" },
         { date: "2024 – 2025", status: "", title: "Máster Profesional en Testing (SQL / API)", org: "Universidad Tecnológica Nacional (UTN)" }
@@ -433,7 +433,7 @@ why: {
       footSuffix: "."
     },
 
-    marquee: ["Hecho y forjado en Argentina", "Contactame", "Disponibilidad inmediata. Jornada completa."],
+    marquee: ["Hecha y forjada en Argentina", "Contactame", "Disponibilidad inmediata. Jornada completa."],
 
     contact: {
       label: "Contacto",
@@ -442,7 +442,7 @@ why: {
       sub: "Si necesitás a alguien que revise los detalles, escribime.",
       copy: "Copiar email",
       copied: "¡Copiado!",
-      send: "Enviar un email"
+      send: "<a href=\"mailto:abrahamsafirayael@gmail.com\">Enviar un email</a>"
     },
 
     footer: {
