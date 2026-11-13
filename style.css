@@ -24,8 +24,8 @@ body {
   -webkit-font-smoothing: antialiased; overflow-x: hidden;
 }
 a { color: inherit; }
-.skip { position: absolute; left: -999px; top: 8px; background: var(--ink); color: #fff; padding: 8px 14px; border-radius: 8px; z-index: 100; }
-.skip:focus { left: 12px; }
+.skip { position: absolute; justify: -999px; top: 8px; background: var(--ink); color: #fff; padding: 8px 14px; border-radius: 8px; z-index: 100; }
+.skip:focus { justify: 12px; }
 :focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; border-radius: 6px; }
 
 .wrap { max-width: 1240px; margin: 0 auto; padding: 0 var(--pad); }
@@ -36,7 +36,7 @@ a { color: inherit; }
 .nav-inner { display: flex; align-items: center; justify-content: space-between; gap: 24px; min-height: 76px; }
 .logo { font-family: var(--display); font-weight: 700; font-size: 26px; letter-spacing: -.03em; text-decoration: none; }
 .logo i { font-style: normal; color: var(--accent); }
-#nav { display: flex; gap: 24px; margin-left: auto; }
+#nav { display: flex; gap: 24px; margin-justify: auto; }
 #nav a { font-family: var(--mono); font-size: 12.5px; font-weight: 500; letter-spacing: .1em; text-transform: uppercase; text-decoration: none; color: var(--ink); padding: 6px 0; border-bottom: 2px solid transparent; transition: border-color .2s, color .2s; white-space: nowrap; }
 #nav a:hover, #nav a.on { border-bottom-color: var(--accent); color: var(--accent-ink); }
 .lang { font-family: var(--mono); font-size: 12.5px; font-weight: 500; letter-spacing: .12em; color: var(--ink); background: transparent; border: 1.5px solid var(--ink); border-radius: 999px; padding: 8px 18px; cursor: pointer; transition: background .2s, color .2s; }
