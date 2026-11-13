@@ -442,7 +442,7 @@ why: {
       sub: "Si necesitás a alguien que revise los detalles, escribime.",
       copy: "Copiar email",
       copied: "¡Copiado!",
-      send: "<a href=\"mailto:abrahamsafirayael@gmail.com\">Enviar un email</a>"
+      send: "Enviar un email"
     },
 
     footer: {
