@@ -233,7 +233,7 @@ why: {
       sub: "If you need someone who checks the details, write to me.",
       copy: "Copy email",
       copied: "Copied!",
-      send: "<a href=\"mailto:abrahamsafirayael@gmail.com\">Send an email</a>"
+      send: "<span onclick=\"window.location.href='mailto:abrahamsafirayael@gmail.com'\">Send an email</span>"
     },
 
     footer: {
@@ -442,7 +442,7 @@ why: {
       sub: "Si necesitás a alguien que revise los detalles, escribime.",
       copy: "Copiar email",
       copied: "¡Copiado!",
-      send: "<a href=\"mailto:abrahamsafirayael@gmail.com\">Enviar un email</a>"
+      send: "<span onclick=\"window.location.href='mailto:abrahamsafirayael@gmail.com'\">Enviar un email</span>"
     },
 
     footer: {
